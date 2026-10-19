@@ -1,88 +1,108 @@
 {
   "ets2": {
+    "vip": {
+      "versao": "2.5",
+      "pacotes": [
+        {
+          "nome": "modsVIP",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
+          "fileName": "modsVIP.7z"
+        }
+      ]
+    },
     "premium": {
       "versao": "2.5",
       "pacotes": [
         {
           "nome": "Betterflares",
-          "fileId": "ID_GOOGLE_DRIVE_BETTERFLARES_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "Betterflares.7z"
         },
         {
           "nome": "Jazzycat",
-          "fileId": "ID_GOOGLE_DRIVE_JAZZYCAT_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "Jazzycat.7z"
         },
         {
           "nome": "Mapas",
-          "fileId": "ID_GOOGLE_DRIVE_MAPAS_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "Mapas.7z"
         },
         {
           "nome": "modsVIP",
-          "fileId": "ID_GOOGLE_DRIVE_MODSVIP_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "modsVIP.7z"
         },
         {
           "nome": "Organizadores",
-          "fileId": "ID_GOOGLE_DRIVE_ORGANIZADORES_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "Organizadores.7z"
         },
         {
           "nome": "Orion",
-          "fileId": "ID_GOOGLE_DRIVE_ORION_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "Orion.7z"
         },
         {
           "nome": "PNG",
-          "fileId": "ID_GOOGLE_DRIVE_PNG_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "PNG.7z"
         }
       ]
     }
   },
   "ats": {
+    "vip": {
+      "versao": "1.8",
+      "pacotes": [
+        {
+          "nome": "modsVIP",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
+          "fileName": "modsVIP.7z"
+        }
+      ]
+    },
     "premium": {
       "versao": "1.8",
       "pacotes": [
         {
           "nome": "Betterflares",
-          "fileId": "ID_GOOGLE_DRIVE_BETTERFLARES_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "Betterflares.7z"
         },
         {
           "nome": "Jazzycat",
-          "fileId": "ID_GOOGLE_DRIVE_JAZZYCAT_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "Jazzycat.7z"
         },
         {
           "nome": "Mapas",
-          "fileId": "ID_GOOGLE_DRIVE_MAPAS_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "Mapas.7z"
         },
         {
           "nome": "modsVIP",
-          "fileId": "ID_GOOGLE_DRIVE_MODSVIP_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "modsVIP.7z"
         },
         {
           "nome": "Organizadores",
-          "fileId": "ID_GOOGLE_DRIVE_ORGANIZADORES_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "Organizadores.7z"
         },
         {
           "nome": "Orion",
-          "fileId": "ID_GOOGLE_DRIVE_ORION_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "Orion.7z"
         },
         {
           "nome": "PNG",
-          "fileId": "ID_GOOGLE_DRIVE_PNG_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "PNG.7z"
         },
         {
           "nome": "Veiculos",
-          "fileId": "ID_GOOGLE_DRIVE_VEICULOS_7Z",
+          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
           "fileName": "Veiculos.7z"
         }
       ]
