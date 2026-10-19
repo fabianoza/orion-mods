@@ -1,4 +1,4 @@
-active_mods: 72
+active_mods: 73
  active_mods[0]: "Reforma_MegaResources_v3_0_1_161|Mega Resources 3.0.1.161"
  active_mods[1]: "Reforma_3_0_1_161|Reforma 3.0.1.161"
  active_mods[2]: "Reforma_Sierra_Nevada_Remake_v1_19_161|Reforma Sierra Nevada 1.19.161"
@@ -71,3 +71,4 @@ active_mods: 72
  active_mods[69]: "mod_workshop_package.00000000C7994714|North America Background Map"
  active_mods[70]: "Orion_Landscape_v1.9_ATS_V1.61|Orion_Landscape_v1.9_ATS_V1.61"
  active_mods[71]: "01_Organizador|01-Backgrounds"
+ active_mods[72]: "Novo12_Organizador|12-Trailers"
