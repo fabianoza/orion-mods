@@ -3,25 +3,25 @@
     "vip": {
       "versao": "2.5",
       "pacotes": [
-        { "nome": "Betterflares", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Betterflares.7z" },
-        { "nome": "Jazzycat", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Jazzycat.7z" },
-        { "nome": "Mapas", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Mapas.7z" },
-        { "nome": "modsVIP", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "modsVIP.7z" },
-        { "nome": "Organizadores", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Organizadores.7z" },
-        { "nome": "Orion", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Orion.7z" },
-        { "nome": "PNG", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "PNG.7z" }
+        { "nome": "Betterflares", "fileId": "1u6XiywvmFyx6lEoDFhhjh7O5Lqsn_mt_", "fileName": "Betterflares.7z" },
+        { "nome": "Jazzycat", "fileId": "1XkPEEN154A0D4FtYEU2PjVfowJyyKGw2", "fileName": "Jazzycat.7z" },
+        { "nome": "Mapas", "fileId": "19fg34UeMAyJeyBDo8c9OvyjuagX9LbsG", "fileName": "Mapas.7z" },
+        { "nome": "modsVIP", "fileId": "1JHa9MU3uOT6iq8-Zb3ngonp6h1co0zJs", "fileName": "modsVIP.7z" },
+        { "nome": "Organizadores", "fileId": "1yp666B6tGh8IBcy6frGMvcPfDpBtL3eX", "fileName": "Organizadores.7z" },
+        { "nome": "Orion", "fileId": "1I6W1XDASFKfNPQNaF7pa6sdg394U11hZ", "fileName": "Orion.7z" },
+        { "nome": "PNG", "fileId": "1pGkoKe9dv5XAeH2k7WVpYFOjuqZzLT4Q", "fileName": "PNG.7z" }
       ]
     },
     "premium": {
       "versao": "2.5",
       "pacotes": [
-        { "nome": "Betterflares", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Betterflares.7z" },
-        { "nome": "Jazzycat", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Jazzycat.7z" },
-        { "nome": "Mapas", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Mapas.7z" },
-        { "nome": "modsVIP", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "modsVIP.7z" },
-        { "nome": "Organizadores", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Organizadores.7z" },
-        { "nome": "Orion", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Orion.7z" },
-        { "nome": "PNG", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "PNG.7z" }
+        { "nome": "Betterflares", "fileId": "1u6XiywvmFyx6lEoDFhhjh7O5Lqsn_mt_", "fileName": "Betterflares.7z" },
+        { "nome": "Jazzycat", "fileId": "1XkPEEN154A0D4FtYEU2PjVfowJyyKGw2", "fileName": "Jazzycat.7z" },
+        { "nome": "Mapas", "fileId": "19fg34UeMAyJeyBDo8c9OvyjuagX9LbsG", "fileName": "Mapas.7z" },
+        { "nome": "modsVIP", "fileId": "1JHa9MU3uOT6iq8-Zb3ngonp6h1co0zJs", "fileName": "modsVIP.7z" },
+        { "nome": "Organizadores", "fileId": "1yp666B6tGh8IBcy6frGMvcPfDpBtL3eX", "fileName": "Organizadores.7z" },
+        { "nome": "Orion", "fileId": "1I6W1XDASFKfNPQNaF7pa6sdg394U11hZ", "fileName": "Orion.7z" },
+        { "nome": "PNG", "fileId": "1pGkoKe9dv5XAeH2k7WVpYFOjuqZzLT4Q", "fileName": "PNG.7z" }
       ]
     }
   },
@@ -29,27 +29,27 @@
     "vip": {
       "versao": "1.8",
       "pacotes": [
-        { "nome": "Betterflares", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Betterflares.7z" },
-        { "nome": "Jazzycat", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Jazzycat.7z" },
-        { "nome": "Mapas", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Mapas.7z" },
-        { "nome": "modsVIP", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "modsVIP.7z" },
-        { "nome": "Organizadores", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Organizadores.7z" },
-        { "nome": "Orion", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Orion.7z" },
-        { "nome": "PNG", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "PNG.7z" },
-        { "nome": "Veiculos", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Veiculos.7z" }
+        { "nome": "Betterflares", "fileId": "15oJTlta8Le_P8XxgzzCeq1v-3i9UNG9F", "fileName": "Betterflares.7z" },
+        { "nome": "Jazzycat", "fileId": "1XwNvwKFhZ9MGzr7yuNYv-p8nPl8h17Yi", "fileName": "Jazzycat.7z" },
+        { "nome": "Mapas", "fileId": "1VYtAF2ao-aiz7W9hRzXwi9k9kVsuOcIe", "fileName": "Mapas.7z" },
+        { "nome": "modsVIP", "fileId": "1e0Ahsb2Hdn6_zj21s6T0SRhf4szH5g35", "fileName": "modsVIP.7z" },
+        { "nome": "Organizadores", "fileId": "1Rk2_Gzj3uhZUf5sbkfg22zcRcf4uZf7h", "fileName": "Organizadores.7z" },
+        { "nome": "Orion", "fileId": "1CtpAju18DPmzToDWKfG8TFBbQMCKn4W-", "fileName": "Orion.7z" },
+        { "nome": "PNG", "fileId": "1_7DYb9d7i-MFY4Ih8oHcvy2IS43N0VIL", "fileName": "PNG.7z" },
+        { "nome": "Veiculos", "fileId": "1O5Q04YnM8BXIhKnPWTSzUrmFxsOoSeUF", "fileName": "Veiculos.7z" }
       ]
     },
     "premium": {
       "versao": "1.8",
       "pacotes": [
-        { "nome": "Betterflares", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Betterflares.7z" },
-        { "nome": "Jazzycat", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Jazzycat.7z" },
-        { "nome": "Mapas", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Mapas.7z" },
-        { "nome": "modsVIP", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "modsVIP.7z" },
-        { "nome": "Organizadores", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Organizadores.7z" },
-        { "nome": "Orion", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Orion.7z" },
-        { "nome": "PNG", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "PNG.7z" },
-        { "nome": "Veiculos", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Veiculos.7z" }
+        { "nome": "Betterflares", "fileId": "15oJTlta8Le_P8XxgzzCeq1v-3i9UNG9F", "fileName": "Betterflares.7z" },
+        { "nome": "Jazzycat", "fileId": "1XwNvwKFhZ9MGzr7yuNYv-p8nPl8h17Yi", "fileName": "Jazzycat.7z" },
+        { "nome": "Mapas", "fileId": "1VYtAF2ao-aiz7W9hRzXwi9k9kVsuOcIe", "fileName": "Mapas.7z" },
+        { "nome": "modsVIP", "fileId": "1e0Ahsb2Hdn6_zj21s6T0SRhf4szH5g35", "fileName": "modsVIP.7z" },
+        { "nome": "Organizadores", "fileId": "1Rk2_Gzj3uhZUf5sbkfg22zcRcf4uZf7h", "fileName": "Organizadores.7z" },
+        { "nome": "Orion", "fileId": "1CtpAju18DPmzToDWKfG8TFBbQMCKn4W-", "fileName": "Orion.7z" },
+        { "nome": "PNG", "fileId": "1_7DYb9d7i-MFY4Ih8oHcvy2IS43N0VIL", "fileName": "PNG.7z" },
+        { "nome": "Veiculos", "fileId": "1O5Q04YnM8BXIhKnPWTSzUrmFxsOoSeUF", "fileName": "Veiculos.7z" }
       ]
     }
   }
