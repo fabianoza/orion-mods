@@ -3,51 +3,25 @@
     "vip": {
       "versao": "2.5",
       "pacotes": [
-        {
-          "nome": "modsVIP",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "modsVIP.7z"
-        }
+        { "nome": "Betterflares", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Betterflares.7z" },
+        { "nome": "Jazzycat", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Jazzycat.7z" },
+        { "nome": "Mapas", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Mapas.7z" },
+        { "nome": "modsVIP", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "modsVIP.7z" },
+        { "nome": "Organizadores", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Organizadores.7z" },
+        { "nome": "Orion", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Orion.7z" },
+        { "nome": "PNG", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "PNG.7z" }
       ]
     },
     "premium": {
       "versao": "2.5",
       "pacotes": [
-        {
-          "nome": "Betterflares",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "Betterflares.7z"
-        },
-        {
-          "nome": "Jazzycat",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "Jazzycat.7z"
-        },
-        {
-          "nome": "Mapas",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "Mapas.7z"
-        },
-        {
-          "nome": "modsVIP",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "modsVIP.7z"
-        },
-        {
-          "nome": "Organizadores",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "Organizadores.7z"
-        },
-        {
-          "nome": "Orion",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "Orion.7z"
-        },
-        {
-          "nome": "PNG",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "PNG.7z"
-        }
+        { "nome": "Betterflares", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Betterflares.7z" },
+        { "nome": "Jazzycat", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Jazzycat.7z" },
+        { "nome": "Mapas", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Mapas.7z" },
+        { "nome": "modsVIP", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "modsVIP.7z" },
+        { "nome": "Organizadores", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Organizadores.7z" },
+        { "nome": "Orion", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Orion.7z" },
+        { "nome": "PNG", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "PNG.7z" }
       ]
     }
   },
@@ -55,56 +29,27 @@
     "vip": {
       "versao": "1.8",
       "pacotes": [
-        {
-          "nome": "modsVIP",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "modsVIP.7z"
-        }
+        { "nome": "Betterflares", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Betterflares.7z" },
+        { "nome": "Jazzycat", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Jazzycat.7z" },
+        { "nome": "Mapas", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Mapas.7z" },
+        { "nome": "modsVIP", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "modsVIP.7z" },
+        { "nome": "Organizadores", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Organizadores.7z" },
+        { "nome": "Orion", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Orion.7z" },
+        { "nome": "PNG", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "PNG.7z" },
+        { "nome": "Veiculos", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Veiculos.7z" }
       ]
     },
     "premium": {
       "versao": "1.8",
       "pacotes": [
-        {
-          "nome": "Betterflares",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "Betterflares.7z"
-        },
-        {
-          "nome": "Jazzycat",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "Jazzycat.7z"
-        },
-        {
-          "nome": "Mapas",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "Mapas.7z"
-        },
-        {
-          "nome": "modsVIP",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "modsVIP.7z"
-        },
-        {
-          "nome": "Organizadores",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "Organizadores.7z"
-        },
-        {
-          "nome": "Orion",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "Orion.7z"
-        },
-        {
-          "nome": "PNG",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "PNG.7z"
-        },
-        {
-          "nome": "Veiculos",
-          "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO",
-          "fileName": "Veiculos.7z"
-        }
+        { "nome": "Betterflares", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Betterflares.7z" },
+        { "nome": "Jazzycat", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Jazzycat.7z" },
+        { "nome": "Mapas", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Mapas.7z" },
+        { "nome": "modsVIP", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "modsVIP.7z" },
+        { "nome": "Organizadores", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Organizadores.7z" },
+        { "nome": "Orion", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Orion.7z" },
+        { "nome": "PNG", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "PNG.7z" },
+        { "nome": "Veiculos", "fileId": "COLA_AQUI_O_ID_DO_ARQUIVO", "fileName": "Veiculos.7z" }
       ]
     }
   }
