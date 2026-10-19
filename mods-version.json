@@ -1,26 +1,91 @@
 {
   "ets2": {
-    "vip": {
-      "version": "2.5",
-      "fileId": "O_ID_REAL_DO_GOOGLE_DRIVE_ETS2_VIP",
-      "fileName": "ETS2_VIP_Pack_v2.5.scs"
-    },
     "premium": {
-      "version": "2.5",
-      "fileId": "O_ID_REAL_DO_GOOGLE_DRIVE_ETS2_PREMIUM",
-      "fileName": "ETS2_Premium_Pack_v2.5.scs"
+      "versao": "2.5",
+      "pacotes": [
+        {
+          "nome": "Betterflares",
+          "fileId": "ID_GOOGLE_DRIVE_BETTERFLARES_7Z",
+          "fileName": "Betterflares.7z"
+        },
+        {
+          "nome": "Jazzycat",
+          "fileId": "ID_GOOGLE_DRIVE_JAZZYCAT_7Z",
+          "fileName": "Jazzycat.7z"
+        },
+        {
+          "nome": "Mapas",
+          "fileId": "ID_GOOGLE_DRIVE_MAPAS_7Z",
+          "fileName": "Mapas.7z"
+        },
+        {
+          "nome": "modsVIP",
+          "fileId": "ID_GOOGLE_DRIVE_MODSVIP_7Z",
+          "fileName": "modsVIP.7z"
+        },
+        {
+          "nome": "Organizadores",
+          "fileId": "ID_GOOGLE_DRIVE_ORGANIZADORES_7Z",
+          "fileName": "Organizadores.7z"
+        },
+        {
+          "nome": "Orion",
+          "fileId": "ID_GOOGLE_DRIVE_ORION_7Z",
+          "fileName": "Orion.7z"
+        },
+        {
+          "nome": "PNG",
+          "fileId": "ID_GOOGLE_DRIVE_PNG_7Z",
+          "fileName": "PNG.7z"
+        }
+      ]
     }
   },
   "ats": {
-    "vip": {
-      "version": "1.8",
-      "fileId": "O_ID_REAL_DO_GOOGLE_DRIVE_ATS_VIP",
-      "fileName": "ATS_VIP_Pack_v1.8.scs"
-    },
     "premium": {
-      "version": "1.8",
-      "fileId": "1rnqEVE1AgHVEx_5pfFFr5tsfEZJhxz45",
-      "fileName": "Novo12_Organizador.scs"
+      "versao": "1.8",
+      "pacotes": [
+        {
+          "nome": "Betterflares",
+          "fileId": "ID_GOOGLE_DRIVE_BETTERFLARES_7Z",
+          "fileName": "Betterflares.7z"
+        },
+        {
+          "nome": "Jazzycat",
+          "fileId": "ID_GOOGLE_DRIVE_JAZZYCAT_7Z",
+          "fileName": "Jazzycat.7z"
+        },
+        {
+          "nome": "Mapas",
+          "fileId": "ID_GOOGLE_DRIVE_MAPAS_7Z",
+          "fileName": "Mapas.7z"
+        },
+        {
+          "nome": "modsVIP",
+          "fileId": "ID_GOOGLE_DRIVE_MODSVIP_7Z",
+          "fileName": "modsVIP.7z"
+        },
+        {
+          "nome": "Organizadores",
+          "fileId": "ID_GOOGLE_DRIVE_ORGANIZADORES_7Z",
+          "fileName": "Organizadores.7z"
+        },
+        {
+          "nome": "Orion",
+          "fileId": "ID_GOOGLE_DRIVE_ORION_7Z",
+          "fileName": "Orion.7z"
+        },
+        {
+          "nome": "PNG",
+          "fileId": "ID_GOOGLE_DRIVE_PNG_7Z",
+          "fileName": "PNG.7z"
+        },
+        {
+          "nome": "Veiculos",
+          "fileId": "ID_GOOGLE_DRIVE_VEICULOS_7Z",
+          "fileName": "Veiculos.7z"
+        }
+      ]
     }
   }
 }
