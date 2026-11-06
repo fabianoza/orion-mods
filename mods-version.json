@@ -1,13 +1,16 @@
 {
   "ets2": [
     { "nome": "Betterflares", "fileId": "18Wq9G6kMWqQsZFz0lYltxk4bqPZoYO4h", "fileName": "Betterflares.7z.roe", "versao": "1.0" },
-    { "nome": "Jazzycat", "fileId": "1Jm4W28AOYYWSKIHboDMEuPdX1kdTmwJQ", "fileName": "Jazzycat.7z.roe", "versao": "1.0" },
-    { "nome": "Mapas", "fileId": "1046FQ_VtGVKOwM38tE9wgOSvxJV-SBVk", "fileName": "Mapas.7z.roe", "versao": "1.0" },
+    { "nome": "Jazzycat_1", "fileId": "1pzEj6Enrm1lsiHZPCfSnN1weftKEZF6z", "fileName": "Jazzycat_1.7z.roe", "versao": "1.0" },
+    { "nome": "Jazzycat_2", "fileId": "1B6lt2jv22vV0eYkp9pP3dhk0YUZJ9jy3", "fileName": "Jazzycat_2.7z.roe", "versao": "1.0" },
+    { "nome": "Mapas_1", "fileId": "1_R-3SDImbuvkkOCWI3EnY-qm0Ggg7fhm", "fileName": "Mapas_1.7z.roe", "versao": "1.0" },
+    { "nome": "Mapas_2", "fileId": "1XMBEp9DX5eHxT9OgTobnmvwhGSvQKT_s", "fileName": "Mapas_2.7z.roe", "versao": "1.0" },
     { "nome": "modsVIP", "fileId": "1Ne9ApsB6B93wczAI-y1nACqA-b8JtvAG", "fileName": "modsVIP.7z.roe", "versao": "1.0" },
     { "nome": "Organizadores", "fileId": "1tX2WDWkrMpnXDA7dcpZPFKxF44vk6Wsr", "fileName": "Organizadores.7z.roe", "versao": "1.0" },
     { "nome": "Orion", "fileId": "1rpXKxiNt5qxc9AOtg56vyJBBIzwMutlr", "fileName": "Orion.7z.roe", "versao": "1.0" },
+    { "nome": "PNG_add", "fileId": "1YAJNap1QQVPMZ4oIY-PwoIamZzD_eB-r", "fileName": "PNG_add.7z.roe", "versao": "1.0" },
     { "nome": "PNG", "fileId": "1wUng2K7FyYz16z1G9zyTSH2r7t9w78OO", "fileName": "PNG.7z.roe", "versao": "1.0" },
-    { "nome": "BETA", "fileId": "1ugRXfIzdaA6BL56nInWR5FCYm8_r__m-", "fileName": "BETA.7z.roe", "versao": "1.1" }
+    { "nome": "veiculos", "fileId": "18Gbj6_hqRuwl55s9jzlibwahnvkc4lRS", "fileName": "veiculos.7z.roe", "versao": "1.0" }
   ],
   "ats": [
     { "nome": "Betterflares", "fileId": "1Q9xpdSS2DIswC-ktb4J413ACde-WgR8D", "fileName": "Betterflares.7z.roe", "versao": "1.0" },
