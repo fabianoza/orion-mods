@@ -53,5 +53,5 @@ active_mods: 56
  active_mods[51]: "mod_workshop_package.0000000026A8B6D4|Sound Fixes Pack v26.62 - ETS2"
  active_mods[52]: "mod_workshop_package.00000000E1B47531|Best Motor Pack (Turbo)"
  active_mods[53]: "02_Organizador|02-Sounds"
- active_mods[54]: "Orion_Landscape_v2.0_ETS2_V1.62|Orion_Landscape_v2.0_ETS2_V1.62"
+ active_mods[54]: "Orion_Landscape_v2.1_ETS2_V1.62|Orion_Landscape_v2.1_ETS2_V1.62"
  active_mods[55]: "01_Organizador|01-Backgrounds"
