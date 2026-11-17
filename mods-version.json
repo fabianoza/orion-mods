@@ -41,6 +41,11 @@
       "versao": "1.2"
     },
     {
+      "nome": "Orion_add",
+      "fileName": "Orion_add.7z.roe",
+      "versao": "1.1"
+    },
+    {
       "nome": "PNG_add",
       "fileName": "PNG_add.7z.roe",
       "versao": "1.1"
@@ -53,7 +58,7 @@
     {
       "nome": "veiculos",
       "fileName": "veiculos.7z.roe",
-      "versao": "1.1"
+      "versao": "1.2"
     }
   ],
   "ats": [
@@ -70,7 +75,7 @@
     {
       "nome": "Mapas",
       "fileName": "Mapas.7z.roe",
-      "versao": "1.1"
+      "versao": "1.2"
     },
     {
       "nome": "ModsVip",
@@ -88,6 +93,11 @@
       "versao": "1.0"
     },
     {
+      "nome": "Orion_add",
+      "fileName": "Orion_add.7z.roe",
+      "versao": "1.1"
+    },
+    {
       "nome": "PNG",
       "fileName": "PNG.7z.roe",
       "versao": "1.1"
@@ -95,7 +105,7 @@
     {
       "nome": "Promods",
       "fileName": "Promods.7z.roe",
-      "versao": "1.1"
+      "versao": "1.2"
     },
     {
       "nome": "Veiculos",
