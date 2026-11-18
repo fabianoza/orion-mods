@@ -28,12 +28,12 @@
     {
       "nome": "modsVIP",
       "fileName": "modsVIP.7z.roe",
-      "versao": "1.0"
+      "versao": "1.1"
     },
     {
       "nome": "Organizadores",
       "fileName": "Organizadores.7z.roe",
-      "versao": "1.0"
+      "versao": "1.1"
     },
     {
       "nome": "Orion",
@@ -56,9 +56,14 @@
       "versao": "1.2"
     },
     {
+      "nome": "Bus",
+      "fileName": "Bus.7z.roe",
+      "versao": "1.1"
+    },
+    {
       "nome": "veiculos",
       "fileName": "veiculos.7z.roe",
-      "versao": "1.2"
+      "versao": "1.3"
     }
   ],
   "ats": [
