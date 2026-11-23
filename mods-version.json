@@ -6,14 +6,19 @@
       "versao": "1.0"
     },
     {
-      "nome": "Jazzycat_1",
-      "fileName": "Jazzycat_1.7z.roe",
-      "versao": "1.0"
+      "nome": "Pro_eu",
+      "fileName": "Pro_eu.7z.roe",
+      "versao": "1.1"
     },
     {
-      "nome": "Jazzycat_2",
-      "fileName": "Jazzycat_2.7z.roe",
-      "versao": "1.0"
+      "nome": "Pro_ma",
+      "fileName": "Pro_ma.7z.roe",
+      "versao": "1.1"
+    },
+    {
+      "nome": "Pro_me_tgs",
+      "fileName": "Pro_me_tgs.7z.roe",
+      "versao": "1.1"
     },
     {
       "nome": "Mapas_1",
@@ -28,7 +33,7 @@
     {
       "nome": "modsVIP",
       "fileName": "modsVIP.7z.roe",
-      "versao": "1.4"
+      "versao": "1.5"
     },
     {
       "nome": "Organizadores",
